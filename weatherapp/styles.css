@@ -1,0 +1,105 @@
+body{
+  font-family: arial, sans-serif;
+  background-color: hsl(0, 0%, 90%);
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weatherform{
+  margin: 20px;
+  
+}
+
+.cityip{
+  padding: 15px;
+  text-align: center;
+  font-size: 1rem;
+  margin: 10px;
+  font-weight: bold;
+  border: 2.3px solid;
+  border-radius: 20px;
+  width: 250px;
+}
+
+button[type="submit"]{
+  border: 2px solid;
+  border-radius: 20px 5px;
+  padding: 10px 20px;
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 0%);
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+
+button[type="submit"]:hover{
+  color: hsl(0, 4%, 72%);
+  background-color: hsl(0, 2%, 16%);
+  transform:scale(1.1);
+}
+
+.card{
+  background: linear-gradient(180deg, hsl(210, 100%, 75%), hsl(40, 100%, 75%));
+  border-radius: 15px;
+  padding: 50px;
+  box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.750);
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+h1{
+  
+  font-family:sans-serif;
+  margin-top: 0;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
+
+h1:hover{
+  transform: scale(1.1);
+  font-family:sans-serif;
+}
+
+.tempDisplay:hover,.humidityDisplay:hover,.descDisplay:hover, .emoji:hover{
+  transform: scale(1.1);
+  font-family:sans-serif;
+}
+
+p{
+  font-size: 1.5rem;
+  margin: 7px 0;
+}
+
+.cityDisplay, .tempDisplay{
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 25px;
+  color: rgba(0, 0, 0, 0.805);
+}
+
+.humidityDisplay{
+  font-weight: bold;
+  margin-bottom: 25px;
+  font-family:sans-serif;
+}
+
+.descDisplay{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.emoji{
+  margin: 0;
+  font-size: 5rem;
+}
+
+.errorDisplay{
+  font-size: 1rem;
+  color: hsl(0, 0%, 0%, 0.75);
+  font-weight: bold;
+}
