@@ -1,1 +1,1 @@
- https://vinsmoke02.github.io/weatherApp/
+https://vinsmoke02.github.io/weatherApp/
