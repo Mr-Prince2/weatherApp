@@ -5,6 +5,8 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-image: url(cloud2.jpg);
+  background-size: cover;
 }
 
 .weatherform{
