@@ -1,7 +1,9 @@
-🌤️ Weather App
+🌤️ Weather App:
+
 A simple and responsive Weather App built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API. This app lets users search for real-time weather updates by city name.
 
-🚀 Features
+🚀 Features:
+
 Search weather by city name
 
 Displays:
@@ -18,7 +20,8 @@ Weather icon
 
 Responsive design for mobile and desktop
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 HTML
 
 CSS
