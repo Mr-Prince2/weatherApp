@@ -1,10 +1,10 @@
-##🌤️ Weather App:
+## 🌤️ Weather App:
 
 A simple and responsive Weather App built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API. This app lets users search for real-time weather updates by city name.
 
 ---
 
-##🚀 Features:
+## 🚀 Features:
 
 Search weather by city name
 
@@ -24,7 +24,7 @@ Responsive design for mobile and desktop
 
 ---
 
-##🛠️ Technologies Used:
+## 🛠️ Technologies Used:
 
 HTML
 
@@ -34,6 +34,6 @@ JavaScript
 
 OpenWeatherMap API
 
-⚒️Final model:
+## ⚒️Final model:
 
 https://vinsmoke02.github.io/weatherApp/
