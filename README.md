@@ -36,4 +36,4 @@ OpenWeatherMap API
 
 ## ⚒️Final model:
 
-https://vinsmoke02.github.io/weatherApp/
+https://mr-prince2.github.io/weatherApp/
